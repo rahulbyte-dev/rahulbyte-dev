@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Rahul Patil - Full Stack Engineer & Automation QA 🚀</h1>
+<h1 align="center">🧪 Rahul Patil - QA Automation Engineer 🧪</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rahullbyte&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -8,21 +8,27 @@
 
 ## 🌟 About Me
 
-👋 Hi, I'm **Rahul Patil**, a passionate Full Stack Engineer & QA Automation Engineer with expertise in building scalable applications and automating workflows. I take ownership of projects from ideation to execution, ensuring high-quality deliverables.
+👋 Hi, I'm **Rahul Patil**, a passionate **QA Automation Engineer** with experience in designing and executing automated test frameworks, ensuring product quality, and improving testing efficiency.  
 
-💼 Currently, I'm working on **[Drinktr](https://drinktr.com)** leading development on my own product.
+💡 I specialize in building robust automation suites for web applications, APIs, and CI/CD pipelines. My focus is on delivering **scalable, reliable, and maintainable test solutions** that accelerate release cycles.  
 
-🎯 My goal is to craft seamless user experiences, write efficient code, and streamline testing pipelines to enhance productivity.
+🎯 My goal is to ensure **bug-free user experiences** and streamline testing processes through automation and smart tooling.  
 
-📬 Contact me at: **[hireme@rahulbyte.dev](mailto:hireme@rahulbyte.dev)**  
-🌎 Portfolio: **[rahulbyte.dev](https://rahulbyte.dev)**
+📬 Contact me at: **[errahul.rp@gmail.com](mailto:errahul.rp@gmail.com)**  
+🌎 Portfolio: **[rahulbyte.dev](https://rahulbyte.dev)**  
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,js,react,tailwind,git,postman,netlify,notion,cypress" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,git,github,postman,notion" alt="Tech Stack" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Automation-Cypress-informational?style=for-the-badge&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-Playwright-informational?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-Puppeteer-informational?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </p>
 
 ---
