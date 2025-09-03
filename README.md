@@ -1,4 +1,4 @@
-<h1 align="center">🧪 Rahul Patil - QA Automation Engineer 🧪</h1>
+<h1 align="center">Rahul Patil - QA Automation Engineer</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rahullbyte&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -22,7 +22,7 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,git,github,postman,notion" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,git,postman,notion,jira" alt="Tech Stack" />
 </p>
 
 <p align="center">
