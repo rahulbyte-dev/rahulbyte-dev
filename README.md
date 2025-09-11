@@ -8,13 +8,13 @@
 
 ## 🌟 About Me
 
-👋 Hi, I'm **Rahul Patil**, a passionate **QA Automation Engineer** with experience in designing and executing automated test frameworks, ensuring product quality, and improving testing efficiency.  
+👋 Hi, I'm **Rahul Patil**, a **QA Automation Engineer** with **2.5+ years of experience** in designing and maintaining automated test frameworks for **web applications and APIs**.  
 
-💡 I specialize in building robust automation suites for web applications, APIs, and CI/CD pipelines. My focus is on delivering **scalable, reliable, and maintainable test solutions** that accelerate release cycles.  
+💡 I specialize in **Playwright, Puppeteer, and Postman**, with strong expertise in test automation, regression testing, and CI/CD pipeline integration.  
 
-🎯 My goal is to ensure **bug-free user experiences** and streamline testing processes through automation and smart tooling.  
+🎯 My focus is on writing **clean, maintainable test scripts**, improving test coverage, and helping teams ship **high-quality, bug-free products faster**.  
 
-📬 Contact me at: **[errahul.rp@gmail.com](mailto:errahul.rp@gmail.com)**  
+📬 Contact: **[errahul.rp@gmail.com](mailto:errahul.rp@gmail.com)**  
 🌎 Portfolio: **[rahulbyte.dev](https://rahulbyte.dev)**  
 
 ---
@@ -22,13 +22,15 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,git,postman,notion,jira" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,git,postman,jira" alt="Tech Stack" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Automation-Cypress-informational?style=for-the-badge&logo=cypress&logoColor=white" />
   <img src="https://img.shields.io/badge/Automation-Playwright-informational?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Automation-Puppeteer-informational?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/API-Postman-informational?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-GitHub%20Actions-informational?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-Jenkins-informational?style=for-the-badge&logo=jenkins&logoColor=white" />
 </p>
 
 ---
@@ -48,7 +50,7 @@
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="http://linkedin.com/in/rahul-patil-02b2a2273">
+  <a href="http://linkedin.com/in/rahulbyte">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/rahullbyte">
