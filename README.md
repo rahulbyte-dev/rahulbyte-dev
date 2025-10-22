@@ -8,9 +8,9 @@
 
 ## 🌟 About Me
 
-👋 Hi, I'm **Rahul Patil**, a **QA Automation Engineer** with **2.5+ years of experience** in designing and maintaining automated test frameworks for **web applications and APIs**.  
+👋 Hi, I'm **Rahul Patil**, a **QA Automation Engineer** with **2.7 years of experience** in designing and maintaining automated test frameworks for **web applications and APIs**.  
 
-💡 I specialize in **Playwright, Puppeteer, and Postman**, with strong expertise in test automation, regression testing, and CI/CD pipeline integration.  
+💡 I specialize in **Playwright, Postman**, with strong expertise in test automation, regression testing, and CI/CD pipeline integration.  
 
 🎯 My focus is on writing **clean, maintainable test scripts**, improving test coverage, and helping teams ship **high-quality, bug-free products faster**.  
 
@@ -22,12 +22,11 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,git,postman,jira" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,git,postman,jira,playwright" alt="Tech Stack" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Automation-Playwright-informational?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automation-Puppeteer-informational?style=for-the-badge&logo=google-chrome&logoColor=white" />
   <img src="https://img.shields.io/badge/API-Postman-informational?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/CI/CD-GitHub%20Actions-informational?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/CI/CD-Jenkins-informational?style=for-the-badge&logo=jenkins&logoColor=white" />
@@ -50,10 +49,10 @@
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="http://linkedin.com/in/rahulbyte">
+  <a href="http://linkedin.com/in/rahulbyte-dev">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/rahullbyte">
+  <a href="https://github.com/rahulbyte-dev">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://rahulbyte.dev">
