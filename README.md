@@ -8,13 +8,13 @@
 
 ## 🌟 About Me
 
-👋 Hi, I'm **Rahul Patil**, a **QA Automation Engineer** with **2.7 years of experience** in designing and maintaining automated test frameworks for **web applications and APIs**.  
+👋 Hi, I'm **Rahul Patil**, a **QA Automation Engineer** with **3.1 years of experience** in designing and maintaining automated test frameworks for **web applications and APIs**.  
 
 💡 I specialize in **Playwright, Postman**, with strong expertise in test automation, regression testing, and CI/CD pipeline integration.  
 
 🎯 My focus is on writing **clean, maintainable test scripts**, improving test coverage, and helping teams ship **high-quality, bug-free products faster**.  
 
-📬 Contact: **[errahul.rp@gmail.com](mailto:errahul.rp@gmail.com)**  
+📬 Contact: **[edr.rahuul@gmail.com](mailto:edr.rahuul@gmail.com)**  
 🌎 Portfolio: **[rahulbyte.dev](https://rahulbyte.dev)**  
 
 ---
