@@ -8,7 +8,7 @@
 
 ## About Me
 
-👋 Hi, I'm **Rahul Patil**, a **QA Automation Engineer** with **3.3 years of experience** in designing and maintaining automated test frameworks for **web applications and APIs**.  
+👋 Hi, I'm **Rahul Patil**, a **QA Automation Engineer** with **3+ years of experience** in designing and maintaining automated test frameworks for **web applications and APIs**.  
 
 💡 I specialize in **Playwright, Postman**, with strong expertise in test automation, regression testing, and CI/CD pipeline integration.  
 
@@ -22,7 +22,7 @@
 ## Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,git,postman,jira,playwright,jenkins," alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=typescript,git,postman,jira,playwright,jenkins," alt="Tech Stack" />
 </p>
 
 <p align="center">
