@@ -1,4 +1,4 @@
-<h1 align="center">Rahul Patil - Senior Automation Engineer</h1>
+<h1 align="center">Rahul Patil - Automation Engineer</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rahullbyte&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -8,7 +8,7 @@
 
 ## About Me
 
-👋 Hi, I'm **Rahul Patil**, a **Senior Automation Engineer** with **3+ years of experience** in designing and maintaining automated test frameworks for **web applications and APIs**.  
+👋 Hi, I'm **Rahul Patil**, a **Automation Engineer** with **3+ years of experience** in designing and maintaining automated test frameworks for **web applications and APIs**.  
 
 💡 I specialize in **Playwright, Postman**, with strong expertise in test automation, regression testing, and CI/CD pipeline integration.  
 
