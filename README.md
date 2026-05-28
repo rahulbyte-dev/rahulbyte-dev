@@ -15,7 +15,7 @@
 🎯 My focus is on writing **clean, maintainable test scripts**, improving test coverage, and helping teams ship **high-quality, bug-free products faster**.  
 
 📬 Contact: **[edr.rahuul@gmail.com](mailto:edr.rahuul@gmail.com)**  
-🌎 Portfolio: **[rahulbyte.dev]([https://rahulbyte.dev](https://rahulbyte.dev/?utm_source=github&utm_medium=developer_profile&utm_campaign=portfolio_launch))**  
+🌎 Portfolio: **[rahulbyte.dev](https://rahulbyte.dev/?utm_source=github&utm_medium=developer_profile&utm_campaign=portfolio_launch)**  
 
 ---
 
