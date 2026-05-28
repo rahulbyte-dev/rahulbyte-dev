@@ -55,7 +55,7 @@
   <a href="https://github.com/rahulbyte-dev">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://rahulbyte.dev">
+  <a href="[https://rahulbyte.dev](https://rahulbyte.dev/?utm_source=github&utm_medium=developer_profile&utm_campaign=portfolio_launch)">
     <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
